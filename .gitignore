@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Build artifacts
+build/
+dist/
+*.spec
+*.egg-info/
+
+# PyInstaller
+*.manifest
+
+# OS
+.DS_Store
+desktop.ini
+Thumbs.db
+
+# Project data / personal stories
+stories/
+*.json
+plugin_registration_debug.txt
