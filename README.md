@@ -73,6 +73,8 @@ mouse_zoom_plugin.py    # Scroll-to-zoom
 pan_plugin.py           # Canvas panning
 fit_to_screen_plugin.py # Auto-fit view
 right_click_menu_plugin.py  # Context menus
+file_creator_plugin.py  # Node file creation
+file_explorer_plugin.py # File browser panel
 story_format_parser.py  # Parses the N:/T:/S:/A-H: story format
 file_manager.py         # Bulk file operations
 story_reader.py         # Playtest your story
