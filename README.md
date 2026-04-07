@@ -4,7 +4,9 @@ Visual editor for creating interactive choice-based stories. Built with a plugin
 
 Comes with two apps: **PathForge** (story visualizer/editor) and **Nodepad** (node-based note-taking tool).
 
-![PathForge Screenshot](screenshots/Screenshot%202025-09-18%20015604.png)
+![PathForge Logo](screenshots/pathforge_logo.png)
+
+> Screenshot of the app coming soon — run it yourself or grab the exe below.
 
 ---
 
