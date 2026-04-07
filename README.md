@@ -6,7 +6,7 @@ Comes with two apps: **PathForge** (story visualizer/editor) and **Nodepad** (no
 
 ![PathForge Logo](screenshots/pathforge_logo.png)
 
-> Screenshot of the app coming soon — run it yourself or grab the exe below.
+> Screenshot of the app coming soon — run it yourself or run `PathForge.exe` directly (Windows, no install needed).
 
 ---
 
