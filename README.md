@@ -1,6 +1,6 @@
 # PathForge
 
-Visual editor for creating interactive choice-based stories. Built with a plugin-based architecture so each feature is isolated and can't break anything else.
+Visual editor for creating interactive choice-based stories. Built with a plugin-based architecture so each feature is isolated.
 
 Comes with two apps: **PathForge** (story visualizer/editor) and **Nodepad** (node-based note-taking tool).
 
